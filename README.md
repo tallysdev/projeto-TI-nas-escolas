@@ -39,5 +39,4 @@
 * Mas o que seriam esses dois status do projeto? explicaremos abaixo.
 
 ### Pensamento computacional:
-
 * A primeira etapa do projeto consiste em apresentar para alunos do ensino fundamental o pensamento computacional, que seria um primeiro contato com o mundo da computação.
