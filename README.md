@@ -9,16 +9,14 @@
 
 ## Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Índice](#índice)
+
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
 * [Pensamento Computacional](#pensamento-computacional)
 * [Arduíno](#arduíno)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Colaboradores](#colaboradores)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 
 ### Descrição do projeto:
@@ -46,4 +44,17 @@
 
 ### Arduíno:
 
-* A segunda etapa consiste na apresentação do Arduíno
+* A segunda etapa consiste na apresentação do Arduíno nas escolas de ensino médio. Com a criação de maquetes interativas apresentando as funcionalidades do arduíno em alusão ao dia-a-dia.
+
+### Colaboradores:
+
+* Tallys Aureliano: 
+   [<img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Tallys-Aureliano)
+* Italo Mauricio: 
+   [<img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/italo-mauricio)
+* Charles Eduardo: 
+   [<img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CharlesEdu07)
+* Lucas Mateus: 
+   [<img src ="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/W1ndeck)
+
+### Participantes do Projeto
