@@ -13,7 +13,7 @@ void setup() {
 void loop() {
   Serial.println(analogRead(ldrPin));
   
-  if (analogRead(ldrPin) > 900) {
+  if (analogRead(ldrPin) > 1000) {
     digitalWrite(ledPin1, HIGH);
     digitalWrite(ledPin2, HIGH);
   }
